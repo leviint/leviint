@@ -11,6 +11,7 @@ busco oportunidades para aprender cada vez mais sobre minha área, visando dar o
 - Curioso
 - Interessado em aprender
 - Bom em trabalho em equipe
+- Inglês avançado verificado pelo TOEIC
 
 ## Linguagens de programação e tecnologias que atualmente estudo
 - ![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white)
