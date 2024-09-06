@@ -1,5 +1,6 @@
 ## Sobre Mim
-Olá! Meu nome é Arthur Lemos Bendini, nasci em 10/05/2006
+Olá! Meu nome é Arthur Lemos Bendini, nasci em 10/05/2006.
+
 sou um estudante de bacharelado em Ciência da Computação na Universidade Católica de Brasília cursando o segundo semestre.
 
 Sou uma pessoa curiosa e interessada em tecnologia desde pequeno. Adoro aprender, e minha jornada como estudante tem sido repleta de novos conhecimentos, querendo sempre superar a mim mesmo.
