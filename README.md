@@ -24,5 +24,6 @@ busco oportunidades para aprender cada vez mais sobre minha área, visando dar o
 
 
 ## Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/arthur-lemos-bendini-714209323/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-lemos-bendini-714209323/)
+
 
