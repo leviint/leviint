@@ -1,11 +1,21 @@
-## Sobre Mim
-Olá! Meu nome é Arthur Lemos Bendini, nasci em 10/05/2006.
+<h1 align="center">Olá! Meu nome é Arthur Lemos Bendini</h1>
 
-Estudante de bacharelado em Ciência da Computação na Universidade Católica de Brasília cursando o segundo semestre.
+<p align="center">Estudante de bacharelado em <strong>Ciência da Computação</strong> na <strong>Universidade Católica de Brasília</strong> cursando o segundo semestre.
+
+---
 
 Sou uma pessoa curiosa e interessada em tecnologia desde pequeno. Adoro aprender, e minha jornada como estudante tem sido repleta de novos conhecimentos, querendo sempre superar a mim mesmo.
 
 busco oportunidades para aprender cada vez mais sobre minha área, visando dar o meu melhor como futuro profissional.
+
+<div style="display: flex; flex-direction: column" align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=leviint&locale=pt-br&show_icons=true&theme=midnight-purple&card_width=400"/>
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leviint&locale=pt-br&theme=midnight-purple&layout=compact&langs_count=8&card_width=400"/>
+  </a>
+</div>
 
 ## Habilidades e Características
 - Paciente
@@ -14,14 +24,26 @@ busco oportunidades para aprender cada vez mais sobre minha área, visando dar o
 - Bom em trabalho em equipe
 - Inglês avançado verificado pelo TOEIC
 
-## Linguagens de programação e tecnologias que atualmente estudo
-- ![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white)
-- ![C](https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-F7DF1E?style=flat&logo=java&logoColor=black)
-- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-- ![AI](https://img.shields.io/badge/AI-10B981?style=flat&logo=ai&logoColor=white) Inteligência Artificial
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) e ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+## Linguagens de programação, ferramentas e tecnologias que atualmente estudo
+        
+<div style="padding: 20px; border-radius: 10px; margin: 20px 0; display: flex;" align="center">
+  <br>
+  <img align="center" alt="Arthur-Python" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="Arthur-C" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="Arthur-Java" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="Arthur-Html5" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="Arthur-CSS" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="Arthur-JavaScript" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Arthur-Git" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+</div>
+
+<div style="padding: 20px; border-radius: 10px; margin: 20px 0; display: flex;" align="center">
+  <br>
+    <img align="center" alt="Arthur-Linux" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+    <img align="center" alt="Arthur-Blender" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"/>
+    <img align="center" alt="Arthur-Godot" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
+    <img align="center" alt="Arthur-Lua" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/>     
+</div>
 
 
 ## Contato
