@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Meu nome é Arthur Lemos Bendini</h1>
 
-<p align="center">Estudante de bacharelado em <strong>Ciência da Computação</strong> na <strong>Universidade Católica de Brasília</strong> cursando o segundo semestre.
+<p align="center">Estudante de bacharelado em <strong>Ciência da Computação</strong> na <strong>Universidade Católica de Brasília</strong> cursando o terceiro semestre.
 
 ---
 
