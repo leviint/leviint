@@ -36,6 +36,7 @@ busco oportunidades para aprender cada vez mais sobre minha área, visando dar o
   <img align="center" alt="Arthur-JavaScript" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Arthur-Git" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="center" alt="Arthur-Docker" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+  <img align="center" alt="Arthur-Postgres" height="80" with="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 </div>
 
 <div style="padding: 20px; border-radius: 10px; margin: 20px 0; display: flex;" align="center">
