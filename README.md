@@ -37,10 +37,12 @@ busco oportunidades para aprender cada vez mais sobre minha área, visando dar o
   <img align="center" alt="Arthur-Git" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="center" alt="Arthur-Docker" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
   <img align="center" alt="Arthur-Postgres" height="80" with="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Arthur-Mysql" height="80" with="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
 
 <div style="padding: 20px; border-radius: 10px; margin: 20px 0; display: flex;" align="center">
   <br>
+    <img align="center" alt="Arthur-PowerBI" height="80" width="80" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png"/>
     <img align="center" alt="Arthur-Linux" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
     <img align="center" alt="Arthur-Blender" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"/>
     <img align="center" alt="Arthur-Godot" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
